@@ -1,0 +1,29 @@
+/* Hover gif*/
+.img_test123{
+	width: 592.05px;
+    height: 723.77px;
+}
+
+.bobst_hover {
+    width: 100%;
+    height: 100%;
+    background: url(https://freight.cargo.site/t/original/i/08802f4f05e9331a3bc8747f0e529d55350941a972a9bd754eceffd00650257d/Thumbnail.png);       
+	background-repeat: no-repeat;
+    background-size: 300px;
+    
+     -webkit-transition: opacity 0.5s ease-in-out;
+    -moz-transition: opacity 0.5s ease-in-out;
+    -ms-transition: opacity 0.5s ease-in-out;
+    -o-transition: opacity 0.5s ease-in-out;
+    transition: opacity 0.5s ease-in-out;
+    
+}
+
+.bobst_hover:hover {
+  
+    width: 100%;
+    height: 100%;
+    background: url(https://freight.cargo.site/t/original/i/44962c88b2820f2697e10c644e4ab4c666a4824de18759f891dc601883e2cff4/Bobst_Thumbnail.gif);       
+	background-repeat: no-repeat;
+    background-size: 300px;
+}
